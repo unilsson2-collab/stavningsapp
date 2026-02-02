@@ -1,0 +1,7 @@
+{
+  "name": "Ordmagikerna: Runornas Hemlighet",
+  "description": "Ett gamifierat äventyr för mellanstadieelever att bemästra svensk rättstavning genom interaktiva uppdrag och AI-driven feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
